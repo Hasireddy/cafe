@@ -1,0 +1,88 @@
+h1,h2,p{
+    text-align:center;
+}
+
+h1{
+    font-size:40px;
+}
+
+h2{
+    font-size:30px;
+}
+
+h1, h2 {
+    font-family: Impact, serif;
+  }
+
+body{
+    background-image: url(pexels-photo-4085294.jpeg);
+    font-family: sans-serif;
+    padding: 20px;
+}
+
+.menu
+{
+    width:80%;  /*div is taking 80% width of the body*/
+    background-color:#F0997D;
+    margin-left:auto;
+    margin-right:auto;
+    max-width:700px;
+    margin-top:70px;
+    padding:20px;
+}
+
+.item p{
+    display:inline-block;
+    font-size: 18px;
+    margin-top:5px;
+    margin-bottom: 5px;
+   
+}
+
+.flavor
+{
+    text-align:left;
+    width:30%;
+   
+}
+
+.price
+{
+    text-align:right;
+    width:65%;
+}
+
+hr{
+    background-color:brown;
+    height: 2px;
+    border-color: brown;
+}
+
+bottom-line {
+    margin-top: 25px;
+  }
+
+footer{
+    font-size: 14px;
+}
+.address {
+    margin-bottom: 5px;
+  }
+  
+  a:visited {
+    color: black;
+  } 
+
+a:active{
+    color:aliceblue;
+}
+
+a:hover
+{
+    color:green;
+}
+
+footer
+{
+    margin-top:20px;
+}
